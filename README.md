@@ -4,7 +4,7 @@ An approach to understand the various congenital defects using neural cellular a
 
 ## Getting Started
 
-Checkout here: https://colab.research.google.com/drive/170U5oiR4oVPCDYzprhPae_gMsvMJgQ1_
+Checkout here: https://drive.google.com/open?id=170U5oiR4oVPCDYzprhPae_gMsvMJgQ1_
 
 This is the preliminary work of my attempt to mutate ( = to blank ) a channel and see what happens.
 
